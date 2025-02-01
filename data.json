@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Manuel Iglesias",
+    "picture": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "rank": 1
+  },
+  {
+    "name": "Marcus Hansen",
+    "picture": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "rank": 2
+  },
+  {
+    "name": "Bruce Gomez",
+    "picture": "https://randomuser.me/api/portraits/med/men/58.jpg",
+    "rank": 3
+  },
+  {
+    "name": "Ahmet Tütüncü",
+    "picture": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "rank": 4
+  },
+  {
+    "name": "Minerva Figueroa",
+    "picture": "https://randomuser.me/api/portraits/med/women/62.jpg",
+    "rank": 5
+  },
+  {
+    "name": "Niilo Kivi",
+    "picture": "https://randomuser.me/api/portraits/med/men/94.jpg",
+    "rank": 6
+  },
+  {
+    "name": "Nebojša Peković",
+    "picture": "https://randomuser.me/api/portraits/med/men/76.jpg",
+    "rank": 7
+  },
+  {
+    "name": "Giovana da Conceição",
+    "picture": "https://randomuser.me/api/portraits/med/women/26.jpg",
+    "rank": 8
+  },
+  {
+    "name": "Augusto Rolón",
+    "picture": "https://randomuser.me/api/portraits/med/men/28.jpg",
+    "rank": 9
+  },
+  {
+    "name": "Rakel Bøen",
+    "picture": "https://randomuser.me/api/portraits/med/women/28.jpg",
+    "rank": 10
+  },
+  {
+    "name": "Teresa Cunningham",
+    "picture": "https://randomuser.me/api/portraits/med/women/4.jpg",
+    "rank": 11
+  },
+  {
+    "name": "Emmi Kyllo",
+    "picture": "https://randomuser.me/api/portraits/med/women/94.jpg",
+    "rank": 12
+  },
+  {
+    "name": "Safaa Herwig",
+    "picture": "https://randomuser.me/api/portraits/med/women/49.jpg",
+    "rank": 13
+  },
+  {
+    "name": "Dalila das Neves",
+    "picture": "https://randomuser.me/api/portraits/med/women/95.jpg",
+    "rank": 14
+  },
+  {
+    "name": "Hansgeorg Küster",
+    "picture": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "rank": 15
+  }
+]
