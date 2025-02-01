@@ -5,6 +5,8 @@ export default function RootLayout() {
     <Stack.Screen name="index" options={{headerShown: false}} />
     <Stack.Screen name="Login" />
     <Stack.Screen name="Signup" />
+    <Stack.Screen name="Scrollview" />
+    <Stack.Screen name="FlatList" />
   </Stack>);
 }
   

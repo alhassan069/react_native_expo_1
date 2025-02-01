@@ -11,10 +11,15 @@ const Index = () => {
   const onSignup = ()=>{
     router.navigate("/Signup")
   }
+  const onScrollview = ()=>{
+    router.navigate("/Scrollview")
+  }
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', gap: 20 }}>
       <MyButton title='Login' onPress={onLogin}/>
       <MyButton title='Signup' onPress={onSignup}/>
+      <MyButton title='Scrollview' onPress={onScrollview}/>
+      <MyButton title='FlatList' onPress={()=>{router.navigate("/FlatList")}}/>
     </View>
   )
 }
