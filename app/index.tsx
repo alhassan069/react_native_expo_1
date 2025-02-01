@@ -6,10 +6,10 @@ import { useRouter } from 'expo-router'
 const Index = () => {
   const router = useRouter();
   const onLogin = ()=>{
-    router.navigate("/login")
+    router.navigate("/Login")
   }
   const onSignup = ()=>{
-    router.navigate("/signup")
+    router.navigate("/Signup")
   }
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', gap: 20 }}>
