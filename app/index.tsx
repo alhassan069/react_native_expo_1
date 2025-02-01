@@ -20,6 +20,7 @@ const Index = () => {
       <MyButton title='Signup' onPress={onSignup}/>
       <MyButton title='Scrollview' onPress={onScrollview}/>
       <MyButton title='FlatList' onPress={()=>{router.navigate("/FlatList")}}/>
+      <MyButton title='Leaderboard' onPress={()=>{router.navigate("/Leaderboard")}}/>
     </View>
   )
 }

@@ -7,6 +7,7 @@ export default function RootLayout() {
     <Stack.Screen name="Signup" />
     <Stack.Screen name="Scrollview" />
     <Stack.Screen name="FlatList" />
+    <Stack.Screen name="Leaderboard" />
   </Stack>);
 }
   
