@@ -8,6 +8,7 @@ export default function RootLayout() {
     <Stack.Screen name="Scrollview" />
     <Stack.Screen name="FlatList" />
     <Stack.Screen name="Leaderboard" />
+    <Stack.Screen name="Modal" options={{headerShown: false}} />
   </Stack>);
 }
   
