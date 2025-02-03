@@ -1,4 +1,5 @@
 import { Stack } from "expo-router";
+import '../global.css';
 
 export default function RootLayout() {
   return ( <Stack >
@@ -9,6 +10,7 @@ export default function RootLayout() {
     <Stack.Screen name="FlatList" />
     <Stack.Screen name="Leaderboard" />
     <Stack.Screen name="Modal" options={{headerShown: false}} />
+    <Stack.Screen name="Tailwind" options={{headerShown: false}} />
   </Stack>);
 }
   

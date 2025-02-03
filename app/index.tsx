@@ -22,6 +22,7 @@ const Index = () => {
       <MyButton title='FlatList' onPress={()=>{router.navigate("/FlatList")}}/>
       <MyButton title='Leaderboard' onPress={()=>{router.navigate("/Leaderboard")}}/>
       <MyButton title='Modal' onPress={()=>{router.navigate("/Modal")}}/>
+      <MyButton title='Tailwind' onPress={()=>{router.navigate("/Tailwind")}}/>
     </View>
   )
 }
